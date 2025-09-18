@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lncrypt3d
 - 👀 I’m interested in Nintendo DS
-- 🌱 I’m currently learning More about homebrew and technical terms
+- 🌱 I’m currently learning More about lots of things
 - 💞️ I’m looking to collaborate on n/a
 
 <!---
